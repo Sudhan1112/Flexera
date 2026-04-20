@@ -1,0 +1,61 @@
+id,studentId,name,className,grade,year,school,district,state,guardian,attendanceRate,readingScore,mathScore,readingLevel,mathLevel,expectedReadingLevel,expectedMathLevel,status
+STU-001-2021,STU-001,Aarav Patel,Class A,3,2021,Govt Primary Rampur,Jaipur,Rajasthan,Meena Patel,91,49,42,Words,Number recognition,Grade 2,Division,Needs Support
+STU-002-2021,STU-002,Ananya Singh,Class A,3,2021,Govt Primary Rampur,Jaipur,Rajasthan,Ravi Singh,88,37,36,Words,Number recognition,Grade 2,Division,Needs Support
+STU-003-2021,STU-003,Rohan Yadav,Class A,2,2021,Govt Primary Rampur,Jaipur,Rajasthan,Sushila Yadav,84,24,22,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-004-2021,STU-004,Fatima Khan,Class B,3,2021,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Imran Khan,93,57,46,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-005-2021,STU-005,Neha Sharma,Class B,2,2021,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Rakesh Sharma,82,28,25,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-006-2021,STU-006,Imtiyaz Ali,Class B,4,2021,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Shabana Ali,94,61,57,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-007-2021,STU-007,Diya Menon,Class C,4,2021,Model School Nandgaon,Jaipur,Rajasthan,Anil Menon,89,45,40,Words,Number recognition,Grade 2,Division,Needs Support
+STU-008-2021,STU-008,Kabir Verma,Class C,3,2021,Model School Nandgaon,Jaipur,Rajasthan,Pooja Verma,80,34,26,Letters,Number recognition,Grade 2,Division,Critical
+STU-009-2021,STU-009,Lakshmi Das,Class C,2,2021,Model School Nandgaon,Jaipur,Rajasthan,Arun Das,79,25,17,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-010-2021,STU-010,Samar Choudhary,Class A,4,2021,BRC Demonstration School,Jaipur,Rajasthan,Nidhi Choudhary,92,58,51,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-011-2021,STU-011,Prisha Reddy,Class B,3,2021,BRC Demonstration School,Jaipur,Rajasthan,Shankar Reddy,90,49,44,Words,Number recognition,Grade 2,Division,Needs Support
+STU-012-2021,STU-012,Harshita Paul,Class C,2,2021,BRC Demonstration School,Jaipur,Rajasthan,Jyoti Paul,78,22,18,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-001-2022,STU-001,Aarav Patel,Class A,3,2022,Govt Primary Rampur,Jaipur,Rajasthan,Meena Patel,91,52,45,Words,Subtraction,Grade 2,Division,Needs Support
+STU-002-2022,STU-002,Ananya Singh,Class A,3,2022,Govt Primary Rampur,Jaipur,Rajasthan,Ravi Singh,88,40,39,Words,Number recognition,Grade 2,Division,Needs Support
+STU-003-2022,STU-003,Rohan Yadav,Class A,2,2022,Govt Primary Rampur,Jaipur,Rajasthan,Sushila Yadav,84,27,25,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-004-2022,STU-004,Fatima Khan,Class B,3,2022,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Imran Khan,93,60,49,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-005-2022,STU-005,Neha Sharma,Class B,2,2022,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Rakesh Sharma,82,31,28,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-006-2022,STU-006,Imtiyaz Ali,Class B,4,2022,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Shabana Ali,94,64,60,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-007-2022,STU-007,Diya Menon,Class C,4,2022,Model School Nandgaon,Jaipur,Rajasthan,Anil Menon,89,48,43,Words,Number recognition,Grade 2,Division,Needs Support
+STU-008-2022,STU-008,Kabir Verma,Class C,3,2022,Model School Nandgaon,Jaipur,Rajasthan,Pooja Verma,80,37,29,Words,Number recognition,Grade 2,Division,Critical
+STU-009-2022,STU-009,Lakshmi Das,Class C,2,2022,Model School Nandgaon,Jaipur,Rajasthan,Arun Das,79,28,20,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-010-2022,STU-010,Samar Choudhary,Class A,4,2022,BRC Demonstration School,Jaipur,Rajasthan,Nidhi Choudhary,92,61,54,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-011-2022,STU-011,Prisha Reddy,Class B,3,2022,BRC Demonstration School,Jaipur,Rajasthan,Shankar Reddy,90,52,47,Words,Subtraction,Grade 2,Division,Needs Support
+STU-012-2022,STU-012,Harshita Paul,Class C,2,2022,BRC Demonstration School,Jaipur,Rajasthan,Jyoti Paul,78,25,21,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-001-2023,STU-001,Aarav Patel,Class A,3,2023,Govt Primary Rampur,Jaipur,Rajasthan,Meena Patel,91,55,48,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-002-2023,STU-002,Ananya Singh,Class A,3,2023,Govt Primary Rampur,Jaipur,Rajasthan,Ravi Singh,88,43,42,Words,Number recognition,Grade 2,Division,Needs Support
+STU-003-2023,STU-003,Rohan Yadav,Class A,2,2023,Govt Primary Rampur,Jaipur,Rajasthan,Sushila Yadav,84,30,28,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-004-2023,STU-004,Fatima Khan,Class B,3,2023,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Imran Khan,93,63,52,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-005-2023,STU-005,Neha Sharma,Class B,2,2023,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Rakesh Sharma,82,34,31,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-006-2023,STU-006,Imtiyaz Ali,Class B,4,2023,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Shabana Ali,94,67,63,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-007-2023,STU-007,Diya Menon,Class C,4,2023,Model School Nandgaon,Jaipur,Rajasthan,Anil Menon,89,51,46,Words,Subtraction,Grade 2,Division,Needs Support
+STU-008-2023,STU-008,Kabir Verma,Class C,3,2023,Model School Nandgaon,Jaipur,Rajasthan,Pooja Verma,80,40,32,Words,Number recognition,Grade 2,Division,Critical
+STU-009-2023,STU-009,Lakshmi Das,Class C,2,2023,Model School Nandgaon,Jaipur,Rajasthan,Arun Das,79,31,23,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-010-2023,STU-010,Samar Choudhary,Class A,4,2023,BRC Demonstration School,Jaipur,Rajasthan,Nidhi Choudhary,92,64,57,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-011-2023,STU-011,Prisha Reddy,Class B,3,2023,BRC Demonstration School,Jaipur,Rajasthan,Shankar Reddy,90,55,50,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-012-2023,STU-012,Harshita Paul,Class C,2,2023,BRC Demonstration School,Jaipur,Rajasthan,Jyoti Paul,78,28,24,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-001-2024,STU-001,Aarav Patel,Class A,3,2024,Govt Primary Rampur,Jaipur,Rajasthan,Meena Patel,91,59,52,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-002-2024,STU-002,Ananya Singh,Class A,3,2024,Govt Primary Rampur,Jaipur,Rajasthan,Ravi Singh,88,47,46,Words,Subtraction,Grade 2,Division,Needs Support
+STU-003-2024,STU-003,Rohan Yadav,Class A,2,2024,Govt Primary Rampur,Jaipur,Rajasthan,Sushila Yadav,84,34,32,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-004-2024,STU-004,Fatima Khan,Class B,3,2024,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Imran Khan,93,67,56,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-005-2024,STU-005,Neha Sharma,Class B,2,2024,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Rakesh Sharma,82,38,35,Words,Number recognition,Paragraph,Subtraction,Needs Support
+STU-006-2024,STU-006,Imtiyaz Ali,Class B,4,2024,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Shabana Ali,94,71,67,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-007-2024,STU-007,Diya Menon,Class C,4,2024,Model School Nandgaon,Jaipur,Rajasthan,Anil Menon,89,55,50,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-008-2024,STU-008,Kabir Verma,Class C,3,2024,Model School Nandgaon,Jaipur,Rajasthan,Pooja Verma,80,44,36,Words,Number recognition,Grade 2,Division,Needs Support
+STU-009-2024,STU-009,Lakshmi Das,Class C,2,2024,Model School Nandgaon,Jaipur,Rajasthan,Arun Das,79,35,27,Words,Number recognition,Paragraph,Subtraction,Critical
+STU-010-2024,STU-010,Samar Choudhary,Class A,4,2024,BRC Demonstration School,Jaipur,Rajasthan,Nidhi Choudhary,92,68,61,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-011-2024,STU-011,Prisha Reddy,Class B,3,2024,BRC Demonstration School,Jaipur,Rajasthan,Shankar Reddy,90,59,54,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-012-2024,STU-012,Harshita Paul,Class C,2,2024,BRC Demonstration School,Jaipur,Rajasthan,Jyoti Paul,78,32,28,Letters,Number recognition,Paragraph,Subtraction,Critical
+STU-001-2025,STU-001,Aarav Patel,Class A,3,2025,Govt Primary Rampur,Jaipur,Rajasthan,Meena Patel,91,65,58,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-002-2025,STU-002,Ananya Singh,Class A,3,2025,Govt Primary Rampur,Jaipur,Rajasthan,Ravi Singh,88,53,52,Words,Subtraction,Grade 2,Division,Needs Support
+STU-003-2025,STU-003,Rohan Yadav,Class A,2,2025,Govt Primary Rampur,Jaipur,Rajasthan,Sushila Yadav,84,40,38,Words,Number recognition,Paragraph,Subtraction,Needs Support
+STU-004-2025,STU-004,Fatima Khan,Class B,3,2025,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Imran Khan,93,73,62,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-005-2025,STU-005,Neha Sharma,Class B,2,2025,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Rakesh Sharma,82,44,41,Words,Number recognition,Paragraph,Subtraction,Needs Support
+STU-006-2025,STU-006,Imtiyaz Ali,Class B,4,2025,Kasturba Vidyalaya Central,Jaipur,Rajasthan,Shabana Ali,94,77,73,Grade 2,Division,Grade 2,Division,Good
+STU-007-2025,STU-007,Diya Menon,Class C,4,2025,Model School Nandgaon,Jaipur,Rajasthan,Anil Menon,89,61,56,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-008-2025,STU-008,Kabir Verma,Class C,3,2025,Model School Nandgaon,Jaipur,Rajasthan,Pooja Verma,80,50,42,Words,Number recognition,Grade 2,Division,Needs Support
+STU-009-2025,STU-009,Lakshmi Das,Class C,2,2025,Model School Nandgaon,Jaipur,Rajasthan,Arun Das,79,41,33,Words,Number recognition,Paragraph,Subtraction,Critical
+STU-010-2025,STU-010,Samar Choudhary,Class A,4,2025,BRC Demonstration School,Jaipur,Rajasthan,Nidhi Choudhary,92,74,67,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-011-2025,STU-011,Prisha Reddy,Class B,3,2025,BRC Demonstration School,Jaipur,Rajasthan,Shankar Reddy,90,65,60,Paragraph,Subtraction,Grade 2,Division,Needs Support
+STU-012-2025,STU-012,Harshita Paul,Class C,2,2025,BRC Demonstration School,Jaipur,Rajasthan,Jyoti Paul,78,38,34,Words,Number recognition,Paragraph,Subtraction,Critical
